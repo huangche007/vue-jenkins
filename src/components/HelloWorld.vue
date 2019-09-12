@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>黄澈Jenkins+Nginx+GitHub自动化构建部署前端项目</h2>
+    <h2>Jenkins+Nginx+GitHub自动化构建部署前端项目</h2>
   </div>
 </template>
 
